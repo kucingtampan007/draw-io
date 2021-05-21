@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2021-05-21T02:51:52.305Z" agent="5.0 (X11)" etag="PLEZ52M3cTdQSdEbN3NR" version="14.6.13" type="github">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="DROPSHIP">
+    <mxGraphModel dx="1594" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HgApALuhV2_PAPe5fxaL-1" value="ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-2" value="JENIS BARANG BERAT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-3" value="RESI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-4" value="USER_ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-5" value="UPDATED AT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-6" value="CREATED AT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-7" value="PHOTO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-8" value="NAME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-9" value="COURIER_ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-10" value="ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-11" value="UPDATED AT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-12" value="CREATED AT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-13" value="PHOTO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-14" value="USER_ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-15" value="CITY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-16" value="BERAT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-17" value="JENIS BARANG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-18" value="COURIER_ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-19" value="NAME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HgApALuhV2_PAPe5fxaL-20" value="RESI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
